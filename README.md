@@ -1,2 +1,2 @@
 # Kata
-A bank account management kata
+This is a java mvc maven project for a bank account mannager kata.
